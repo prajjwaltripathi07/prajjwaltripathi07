@@ -5,9 +5,9 @@
 ### _A passionate human being crafting digital experiences..._
 
 ---
-
-</div>
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif) 
+</div>
+
 ## 👨‍💻 **About Me**
 
 > _"I build futuristic apps but can’t predict when I’ll finally submit my assignment."_
