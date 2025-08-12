@@ -119,9 +119,7 @@ Development roles to contribute to innovative engineering teams and grow as a de
 <tr>
 <td width="50%" align="center">
 
-### **Contribution Streak**
-
-<img src="https://streak-stats.demolab.com?user=prajjwaltripathi07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+### **Contribution Streak** <img src="https://streak-stats.demolab.com?user=prajjwaltripathi07&theme=tokyonight&hide_border=true&background=0D1117&cacheBust=1" alt="GitHub Streak" />
 
 </td>
 <td width="50%" align="center">
