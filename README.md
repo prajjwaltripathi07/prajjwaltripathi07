@@ -103,7 +103,7 @@ Development roles to contribute to innovative engineering teams and grow as a de
 
 ### **Proof I know DSA**
 
-<img src="https://leetcard.jacoblin.cool/aarabii?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/PRAJJWAL_TRIPATHI7?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ Development roles to contribute to innovative engineering teams and grow as a de
 
 ### **Journey of Making REPOs**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarabii&theme=nord_bright" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajjwaltripathi07&theme=nord_bright" alt="GitHub Profile Summary" />
 
 </td>
 </tr>
@@ -121,14 +121,14 @@ Development roles to contribute to innovative engineering teams and grow as a de
 
 ### **Contribution Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarabii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwaltripathi07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </td>
 <td width="50%" align="center">
 
 ### **Activity Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarabii&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjwaltripathi07&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 
 </td>
 </tr>
@@ -143,10 +143,12 @@ Development roles to contribute to innovative engineering teams and grow as a de
 
 | 🌟 **Project** |         📝 **Description**          |                  🔗 **Demo**                  |
 | :------------: | :---------------------------------: | :-------------------------------------------: |
-|     **An**     |       _My Personal Portfolio_       |   [🚀 View Live](https://aarab.vercel.app/)   |
-|   **Orphia**   |      _Text to Music Generator_      |   [🎵 Try Now](https://orphia.vercel.app/)    |
-| **Ideascribe** |   _Coolest way to capture notes_    | [📝 Explore](https://ideascribe.vercel.app/)  |
-| **Craftogram** | _Instagram bio & caption generator_ | [✨ Generate](https://Craftogram.vercel.app/) |
+|     **An**     |       _My Personal Portfolio_       |   [🚀 View Live](https://portfolio-two-pi-scsd82fxhu.vercel.app/)   |
+| **Disease Prediction System** |   _Instantly check your health_    | [📝 Explore](https://disease-prediction-system-qr1m.onrender.com)  |
+| **BookMyCab** | _Simplest Way To Book a Ride_ | [✨ Check](https://vercel.com/prajjwal-tripathis-projects-ab55a7a8/uber-clone) |
+| **Weather** | _Keep An Update of the weather Around you_ | [✨ Check](https://app-weather-h97i.onrender.com) |
+|   **Chess**   |      _Multiplayer Chess Game_      |   [🎵 Play Now](https://chess-7bap.onrender.com)    |
+| **Landing Page With 3D Model** | _Look Around_ | [✨ Check](https://landingpage-zeta-sepia.vercel.app/) |
 
 </div>
 
@@ -222,7 +224,7 @@ Development roles to contribute to innovative engineering teams and grow as a de
 
 _If you find my projects helpful and want to support my work:_
 
-<a href="https://github.com/sponsors/aarabii" target="_blank">
+<a href="https://github.com/sponsors/prajjwaltripathi07" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-FC0362?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor me on GitHub">
 </a>
 
