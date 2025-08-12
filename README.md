@@ -121,7 +121,7 @@ Development roles to contribute to innovative engineering teams and grow as a de
 
 ### **Contribution Streak**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwaltripathi07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajjwaltripathi07&theme=tokyonight&hide_border=true&background=0D1117)
 
 </td>
 <td width="50%" align="center">
