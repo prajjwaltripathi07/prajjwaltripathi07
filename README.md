@@ -143,7 +143,7 @@ Development roles to contribute to innovative engineering teams and grow as a de
 | :------------: | :---------------------------------: | :-------------------------------------------: |
 |     **An**     |       _My Personal Portfolio_       |   [🚀 View Live](https://portfolio-two-pi-scsd82fxhu.vercel.app/)   |
 | **Disease Prediction System** |   _Instantly check your health_    | [📝 Explore](https://disease-prediction-system-qr1m.onrender.com)  |
-| **BookMyCab** | _Simplest Way To Book a Ride_ | [🚀 Book Now](https://vercel.com/prajjwal-tripathis-projects-ab55a7a8/uber-clone) |
+| **BookMyCab** | _Simplest Way To Book a Ride_ | [🚀 Book Now](https://uber-clone-ot16ag9y7-prajjwal-tripathis-projects-ab55a7a8.vercel.app/) |
 | **Weather** | _Keep An Update of the weather Around you_ | [✨ Check Now](https://app-weather-h97i.onrender.com) |
 |   **Chess**   |      _Multiplayer Chess Game_      |   [🎵 Play Now](https://chess-7bap.onrender.com)    |
 | **Landing Page With 3D Model** | _Look Around_ | [🚀 Check it Out](https://landingpage-zeta-sepia.vercel.app/) |
