@@ -91,16 +91,6 @@ Development roles to contribute to innovative engineering teams and grow as a de
 <tr>
 <td width="50%" align="center">
 
-### **Languages my code Speak**
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwaltripathi07&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</td>
-<td width="50%" align="center">
-
 ### 🚀 My GitHub Stats & Badges
 
 You can see my recent activity and language proficiency here:
