@@ -93,7 +93,7 @@ You can see my recent activity and language proficiency here:
 
 My Holopin badges:
 
-[![An image of @prajjwaltripathi07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhaygupta9397)](https://holopin.io/@prajjwaltripathi07)
+[![An image of @prajjwaltripathi07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajjwaltripathi07)](https://holopin.io/@prajjwaltripathi07)
 
 
 ### **Proof I know DSA**
