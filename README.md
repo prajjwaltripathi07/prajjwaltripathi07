@@ -101,6 +101,18 @@ Development roles to contribute to innovative engineering teams and grow as a de
 </td>
 <td width="50%" align="center">
 
+### 🚀 My GitHub Stats & Badges
+
+You can see my recent activity and language proficiency here:
+
+[![Prajjwal Tripathi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajjwaltripathi07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwaltripathi07&&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+My Holopin badges:
+
+[![An image of @abhaygupta9397's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhaygupta9397)](https://holopin.io/@abhaygupta9397)
+
+
 ### **Proof I know DSA**
 
 <img src="https://leetcard.jacoblin.cool/PRAJJWAL_TRIPATHI7?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
