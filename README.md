@@ -83,13 +83,6 @@ Development roles to contribute to innovative engineering teams and grow as a de
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
 
 ### 🚀 My GitHub Stats & Badges
 
